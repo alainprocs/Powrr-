@@ -1,0 +1,68 @@
+
+.banner{
+    background-color: #6a0dad;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    padding: 75px 0;
+    font-family: 'Girassol', cursive;
+}
+
+#God{
+    width: 580px;
+    height: 350px;
+    text-shadow: 0 0 1;
+    filter: drop-shadow(6px 6px 6px black);
+}
+
+#Powrr{
+    color: #6a0dad;
+    font-size: 100px;
+    font-family: 'Girassol', cursive;
+}
+
+.bold{
+    font-weight: 900px;
+    font-style: bold;
+}
+
+.navbar{
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.navbar li{
+    display: inline;
+    padding: 25px;
+    font-size: 25px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+
+#main{
+    color: ##6a0dad;
+}
+
+#greets ul{
+    list-style-type: none;
+}
+
+.Powrr-section{
+    padding: 20px 50px;
+}
+
+.avatar{
+    background-image: url(../POWAH!/ePhHFztJYSRfVtUQS2J85lSCvVnlseiiS4px3V_L93k.png);
+    background-size: cover;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 10px;
+}
